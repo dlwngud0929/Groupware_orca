@@ -14,10 +14,11 @@ ERD
 ![image](https://github.com/user-attachments/assets/007b64dd-93e7-452b-bf75-c440f76a6012)
 
 
-📚 기술 스택 📚
+ # 📚 기술 스택 📚
 ✨ 플랫폼 & 언어 ✨
 
-    ![image](https://github.com/user-attachments/assets/fc6c89d7-d6ac-4a39-8096-e9fd62f4cd3a)
+![image](https://github.com/user-attachments/assets/a251b061-1db4-44b4-96b0-f1e3b33075f2)
+
 
    
 
@@ -26,3 +27,12 @@ ERD
  
  ![image](https://github.com/user-attachments/assets/a526693f-2e04-4375-b64e-ad8acad7a580)
 
+
+ # 🚀👩‍🚀👨‍🚀 팀원
+
+|이주형|나지원|최혜원|
+|------|---|---|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+ 
