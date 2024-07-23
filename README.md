@@ -1,9 +1,9 @@
 # Groupware_orca
 
-프로젝트 소개
+ #프로젝트 소개
 ![image](https://github.com/user-attachments/assets/f5b793cd-19e3-4f2c-99c8-80b08ee55d3b)
 
 
  #  📅 프로젝트 기간
+2024-06-25 ~ 2024-07-22
 
-<br/>
