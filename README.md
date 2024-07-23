@@ -4,8 +4,15 @@
 ![image](https://github.com/user-attachments/assets/f5b793cd-19e3-4f2c-99c8-80b08ee55d3b)
 
 
+
+
+
  #  📅 프로젝트 기간
 2024-06-25 ~ 2024-07-22
+
+
+
+
 
  # 🧱 프로젝트 설계
 
@@ -20,6 +27,10 @@ UI
 ![image](https://github.com/user-attachments/assets/776d931a-db5d-400a-bc4d-5f1412d317a9)
 
 
+
+
+
+
  # 📚 기술 스택 📚
 ✨ 플랫폼 & 언어 ✨
 
@@ -28,10 +39,16 @@ UI
 
    
 
+
 🛠 사용 툴 🛠
 
  
  ![image](https://github.com/user-attachments/assets/a526693f-2e04-4375-b64e-ad8acad7a580)
+
+
+
+
+
 
 
  # 🚀👩‍🚀👨‍🚀 팀원
