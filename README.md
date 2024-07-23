@@ -17,10 +17,12 @@ ERD
 📚 기술 스택 📚
 ✨ 플랫폼 & 언어 ✨
 
-    
+    ![image](https://github.com/user-attachments/assets/fc6c89d7-d6ac-4a39-8096-e9fd62f4cd3a)
+
    
 
 🛠 사용 툴 🛠
 
  
- 
+ ![image](https://github.com/user-attachments/assets/a526693f-2e04-4375-b64e-ad8acad7a580)
+
